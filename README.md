@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Onde encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathanmacedocastro/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanMacCas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
